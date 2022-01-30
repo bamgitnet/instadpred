@@ -5,7 +5,7 @@
 </head>
 
 <BODY>
-	
+	<p>please wait ..</p>
 
 </body>
 
